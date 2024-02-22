@@ -1,0 +1,37 @@
+p{
+    text-align: left;
+}
+#head{
+    text-align: center;
+    text-decoration: yellow underline;
+    font-weight: lighter;
+    text-transform: capitalize;
+}
+
+
+a{
+    text-decoration: none;
+}
+#one{
+    font-size: 25px ;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 25px;
+    text-transform: uppercase;
+    text-transform: capitalize;
+}
+#two{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#three{
+    font-size: 10px;
+}
+a:hover{
+    background-color: brown;
+}
+#ouer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
